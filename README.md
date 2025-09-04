@@ -31,12 +31,11 @@ Users should be able to:
 
 ![](./screenshot.jpg)
 
-(Add your final design screenshot above)
 
 ### Links
 
-* Solution URL: [Add solution URL here](https://your-solution-url.com)
-* Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+* Solution URL: (https://github.com/tech-goddezz/Social-Links-Profile.git)
+* Live Site URL: (https://social-links-profile-neon-rho.vercel.app/)
 
 ## My process
 
@@ -77,7 +76,9 @@ In future projects, I want to focus more on:
 
 ## Author
 
-* Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-* Twitter - [@yourusername](https://www.twitter.com/yourusername)
+* Frontend Mentor - [@tech-goddezz](https://www.frontendmentor.io/profile/tech-goddezz)
+* Twitter - [@tech\_goddezz](https://x.com/tech_goddezz)
+* GitHub - [@tech-goddezz](https://github.com/tech-goddezz)
+* LinkedIn - [Elizabeth Omigie](https://www.linkedin.com/in/elizabethomigie)
 
 
