@@ -86,4 +86,29 @@ h3 {
 
 
 
+@media (max-width: 250px) {
+
+    .container {
+    padding: 18px;
+    max-width: 300px;
+}
+
+}
+
+
+
+
+@media (max-width: 365px) {
+
+    .container {
+    padding: 26px;
+    max-width: 190px;
+}
+
+}
+
+
+
+
+
 
